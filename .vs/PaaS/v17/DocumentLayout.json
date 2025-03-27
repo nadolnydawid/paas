@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin.dnadolny\\source\\repos\\PaaS\\",
+  "WorkspaceRootPath": "C:\\Users\\admin.dnadolny\\source\\repos\\passGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB297624-40EF-4F73-9D9E-DCFADED23F94}|PaaS\\PaaS.csproj|c:\\users\\admin.dnadolny\\source\\repos\\paas\\paas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB297624-40EF-4F73-9D9E-DCFADED23F94}|PaaS\\PaaS.csproj|c:\\users\\admin.dnadolny\\source\\repos\\passgit\\paas\\paas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AB297624-40EF-4F73-9D9E-DCFADED23F94}|PaaS\\PaaS.csproj|solutionrelative:paas\\paas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB297624-40EF-4F73-9D9E-DCFADED23F94}|PaaS\\PaaS.csproj|c:\\users\\admin.dnadolny\\source\\repos\\passgit\\paas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB297624-40EF-4F73-9D9E-DCFADED23F94}|PaaS\\PaaS.csproj|solutionrelative:paas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -14,86 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 456,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:659671443:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin.dnadolny\\source\\repos\\PaaS\\PaaS\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PaaS\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin.dnadolny\\source\\repos\\PaaS\\PaaS\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PaaS\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T17:20:27.057Z",
+              "Title": "PaaS",
+              "DocumentMoniker": "C:\\Users\\admin.dnadolny\\source\\repos\\passGit\\PaaS\\PaaS.csproj",
+              "RelativeDocumentMoniker": "PaaS\\PaaS.csproj",
+              "ToolTip": "C:\\Users\\admin.dnadolny\\source\\repos\\passGit\\PaaS\\PaaS.csproj",
+              "RelativeToolTip": "PaaS\\PaaS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T18:04:35.303Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 453,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin.dnadolny\\source\\repos\\passGit\\PaaS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PaaS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin.dnadolny\\source\\repos\\passGit\\PaaS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PaaS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T17:20:27.057Z",
+              "EditorCaption": ""
             }
           ]
         }
